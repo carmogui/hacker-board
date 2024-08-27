@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+  overflow: hidden;
+}
+
+.gm-style iframe + div {
+  border: none !important;
+}
